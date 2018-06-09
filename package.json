@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shreyas-s/plcmdlink/issues"
   },
+  "bin": {
+    "mylink": "./bin/cmdlink.js"
+  },
   "homepage": "https://github.com/shreyas-s/plcmdlink#readme"
 }
